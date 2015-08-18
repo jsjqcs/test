@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         System.out.println("hello world");
-        Log.d("MainActivity", "这里只是做一个git建立网络代码仓库测试");
+        Log.d("MainActivity", "杩欓噷鍙槸鍋氫竴涓猤it寤虹珛缃戠粶浠ｇ爜浠撳簱娴嬭瘯");
+        System.out.println("杩欓噷涔熷彲浠ュ啓浠ｇ爜");
     }
 }
